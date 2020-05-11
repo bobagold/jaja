@@ -4,6 +4,9 @@
   "description": "Javascript runtime implemented in Javascript (like PyPy, but better)",
   "main": "jaja.js",
   "type": "module",
+  "engines": {
+    "node": ">=0.14"
+  },
   "scripts": {
     "test": "mocha test"
   },
