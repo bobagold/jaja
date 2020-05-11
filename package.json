@@ -1,0 +1,28 @@
+{
+  "name": "jaja",
+  "version": "1.0.0",
+  "description": "Javascript runtime implemented in Javascript (like PyPy, but better)",
+  "main": "jaja.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobagold/jaja.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "runtime",
+    "pypy"
+  ],
+  "author": "Vladimir Goldobin",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bobagold/jaja/issues"
+  },
+  "homepage": "https://github.com/bobagold/jaja#readme",
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
