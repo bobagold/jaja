@@ -1,4 +1,11 @@
 # jaja
 Javascript runtime implemented in Javascript (like PyPy, but better)
 
-## „jaja, das ist fantastisch‟
+## Slogan
+«jaja, das ist fantastisch»
+
+## Usage
+```javascript
+import jaja from 'jaja';
+jaja('place your js here');
+```
