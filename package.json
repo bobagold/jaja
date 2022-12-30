@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/bobagold/jaja#readme",
   "devDependencies": {
-    "mocha": "^7.1.2"
+    "mocha": "^10.2.0"
   }
 }
